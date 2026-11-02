@@ -1,7 +1,8 @@
 streamlit
 pandas
-numpy
+numpy==1.26.4
 matplotlib
-scikit-learn
+scikit-learn==1.6.1
+scipy==1.13.1
 joblib
 openpyxl
